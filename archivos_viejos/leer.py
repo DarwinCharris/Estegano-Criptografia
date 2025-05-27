@@ -59,6 +59,6 @@ def leer(ruta_imagen):
 		break
 	return mensaje
 
-mensaje = leer("salida.png")
+mensaje = leer("archivos_viejos/descarga.png")
 print("El mensaje oculto es:")
 print(mensaje)
